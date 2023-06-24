@@ -1,0 +1,17 @@
+git clone => is a command to clone the remote reprositary into local machine
+cd => change the directry
+ll => long list of files or directories
+ls => to view filea and directories in short list (onlynames)
+ll -a => to see the long list of files and dirtectories includimg hidden files
+git status => tp see the status of files
+git add=> is a command t add a file in staging or index
+girt add * => used to add all the files into reprository (stagging or index)
+git add filename filename => to add two files
+git add filename filename filenmae ..=>too add upto nth file
+git branch => to check weather it is main or not
+git reset filename => is a command to change file from stagging to working directory or from commiting to working directory
+git stage filename => to add file name
+git stage filename filenmae => to stage two files at a time
+git stage * => add al file at a time
+git => it is meant  for scm(source code management)
+git comit => -m "message" filename
